@@ -4,7 +4,7 @@ To run this code you need to follow some steps.
 2. install Git Bash
    
 After Completing the installation process go to the Git Bash terminal and run this code:<br>
-NB: You must go to the front-end directory.
+NB: You must go to the "front-end" directory.
 
 ```
 cd front-end 
