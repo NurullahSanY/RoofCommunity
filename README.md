@@ -1,7 +1,13 @@
-# RoofCommunity Fronend Design Only
-For Run this code you need to go front-end directory then run those code in git Bash Terminal 
+# RoofCommunity Frontend Design Only
+To run this code you need to follow some steps.
+1. install Node.js
+2. install Git Bash
+   
+After Completing the installation process go to the Git Bash terminal and run this code:
+NB: You must go to the front-end directory.
+
 ```
-cd front-end
+cd front-end 
 npm install -y
 npm install -g @angular/cli
 npm install bootstrap@5
